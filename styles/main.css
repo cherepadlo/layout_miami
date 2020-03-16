@@ -425,8 +425,8 @@ textarea {
   border-radius: 8px;
   margin-bottom: 16px;
   text-indent: 17px; }
-  .form__field:focus {
-    outline: none; }
+  .form__field:focus:focus {
+    outline-color: #0075ff; }
 
 .form__field--text {
   height: 144px;
